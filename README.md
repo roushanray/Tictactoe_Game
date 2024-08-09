@@ -1,4 +1,4 @@
-# react-tictactoe
+# Tictactoe_Game
 
 ![alt-text](https://imgur.com/pnFGz02.jpg)
 
@@ -7,7 +7,7 @@ A simple browser-based tic-tac-toe game that depends on a locally-run nodejs ser
 
 ## Steps to run
 
-`cd react-tictactoe` - cd to project folder.
+`cd Tictactoe_Game` - cd to project folder.
 
 `npm run first` - npm script install packages for both server and client
 
